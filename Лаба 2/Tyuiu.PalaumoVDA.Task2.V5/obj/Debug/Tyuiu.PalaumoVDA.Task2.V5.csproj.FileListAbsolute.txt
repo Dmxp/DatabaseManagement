@@ -1,0 +1,32 @@
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\Tyuiu.PalaumoVDA.Task2.V5.exe.config
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\Tyuiu.PalaumoVDA.Task2.V5.exe
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\Tyuiu.PalaumoVDA.Task2.V5.pdb
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\System.Data.OleDb.dll
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\System.Data.OleDb.xml
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.FormMainPalaumovDA.resources
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.Properties.Resources.resources
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.csproj.GenerateResource.cache
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.Pa.45B860AA.Up2Date
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.exe
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.pdb
+C:\Users\msi\source\repos\Tyuiu.PalaumoVDA.Task2.V5\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.FormLoginPalaumovDA.resources
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\Tyuiu.PalaumoVDA.Task2.V5.exe.config
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\Tyuiu.PalaumoVDA.Task2.V5.exe
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\Tyuiu.PalaumoVDA.Task2.V5.pdb
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\itextsharp.dll
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\System.Data.OleDb.dll
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\itextsharp.xml
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\bin\Debug\System.Data.OleDb.xml
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.FormLoginPalaumovDA.resources
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.FormMainPalaumovDA.resources
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.FormRegistration_PDA.resources
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.Properties.Resources.resources
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.csproj.GenerateResource.cache
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.Pa.45B860AA.Up2Date
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.exe
+C:\Users\msi\Desktop\DatabaseManagement\Лаба 2\Tyuiu.PalaumoVDA.Task2.V5\obj\Debug\Tyuiu.PalaumoVDA.Task2.V5.pdb
